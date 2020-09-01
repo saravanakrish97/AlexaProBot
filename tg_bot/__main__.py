@@ -36,9 +36,9 @@ PM_START_TEXT = """
 ╱▔▔▔▔┊┊┊┊▔▔▔▔╲
 HOI    {}, MY NAME IS ⚡️{}⚡️!
 
-⚡️I AM A GROUP MODULER PRO BOT ⚡️MAINTAINED BY 
+⚡️I AM A GROUP MODULER PRO BOT⚡️MAINTAINED BY 
 
-🔥[THIS LEGEND]🔥(tg://user?id={}).
+🔥 [THIS LEGEND](tg://user?id={}).🔥
 
 TO SEE MY COMMENTS HIT HELP 😉 /help
 
