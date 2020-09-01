@@ -34,19 +34,19 @@ PM_START_TEXT = """
 ┈┈┈┈╲┊┊┊┊╱┈┈┈┈
 ┈┈┈┈▕╲▂▂╱▏┈┈┈┈
 ╱▔▔▔▔┊┊┊┊▔▔▔▔╲
-HOI    {}, MY NAME IS {} !
+HOI    {}, MY NAME IS ⚡️{}⚡️!
 
-I AM A GROUP MANAGER BOT MAINTAINED BY 
+⚡️I AM A GROUP MODULER PRO BOT ⚡️MAINTAINED BY 
 
-[THIS LEGEND](tg://user?id={}).
+🔥[THIS LEGEND]🔥(tg://user?id={}).
 
-HIT HELP FOR COMMANDS  /help
+TO SEE MY COMMENTS HIT HELP 😉 /help
 
 """
 
 HELP_STRINGS = """
 
-Hello! my name *{}*.
+Hello! my name ⚡️*{}⚡️*.
 
 *Main* commands available:
  - /start: start the bot
