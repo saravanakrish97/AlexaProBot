@@ -47,8 +47,7 @@ TO SEE MY COMMENTS HIT HELP 😉 /help
 
 HELP_STRINGS = """
 
-Hello! my name ⚡️*{}⚡️*.
-My master 🔥[THIS LEGEND](tg://user?id={}).🔥
+Hello! my name ⚡️*
 
 *Main* commands available:
  - /start: start the bot
