@@ -34,8 +34,7 @@ PM_START_TEXT = """
 ┈┈┈┈╲┊┊┊┊╱┈┈┈┈
 ┈┈┈┈▕╲▂▂╱▏┈┈┈┈
 ╱▔▔▔▔┊┊┊┊▔▔▔▔╲
-HOI    {},
-MY NAME IS ⚡️{}⚡️!
+HOI    {},MY NAME IS ⚡️{}⚡️!
 
 ⚡️I AM A MODULER PRO BOT⚡️MAINTAINED BY 
 
@@ -47,7 +46,7 @@ TO SEE MY COMMENTS HIT HELP 😉 /help
 
 HELP_STRINGS = """
 
-Hello! my name ⚡️*
+Hello! my name ⚡️*{}*⚡️
 
 *Main* commands available:
  - /start: start the bot
