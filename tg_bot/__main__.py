@@ -40,7 +40,7 @@ HOI    {},MY NAME IS ⚡️{}⚡️!
 
 🔥[MY MASTER](tg://user?id={1169076058}).🔥
 
-Maintained by 🔥[THIS LEGEND](tg://user?id={1169076058}).🔥
+Maintained by 🔥[THIS LEGEND](tg://user?id={}).🔥
 TO SEE MY COMMENTS HIT HELP 😉 /help
 
 """
