@@ -38,7 +38,7 @@ HI😉    {}, MY NAME IS {} !
 
 I AM A MODULER PROBOT  MAINTAINED BY 
 
-✨[THIS LEGEND](https://t.me/@id={}).✨
+✨[THIS LEGEND](https://t.me/tg//user?id={}).✨
 
 CREATED BY 
 
