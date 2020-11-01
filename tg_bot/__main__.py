@@ -34,7 +34,7 @@ PM_START_TEXT = """
 ┈┈┈┈╲┊┊┊┊╱┈┈┈┈
 ┈┈┈┈▕╲▂▂╱▏┈┈┈┈
 ╱▔▔▔▔┊┊┊┊▔▔▔▔╲
-HOI    {},MY NAME IS ⚡️{}⚡️!
+HI 😉    {},MY NAME IS ⚡️{}⚡️!
 
 ⚡️I AM A MODULER PRO BOT⚡️MANTAINED BY 
 
