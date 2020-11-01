@@ -38,10 +38,11 @@ HOI    {},MY NAME IS ⚡️{}⚡️!
 
 ⚡️I AM A MODULER PRO BOT⚡️MANTAINED BY 
 
-🔥 [THIS LEGENT](tg://user?id={}) 🔥
+🔥[THIS LEGENT](tg://user?id={})🔥
 
-CREATED BY 🤴🏻[✭ıll✌🏻☞ Imͥຮaͣiͫ♥️คraຮan™️☜👻llı✭](t.me.saravanakrish)🤴🏻
-TO SEE MY COMMENTS HIT HELP 😉 /help
+CREATED BY 🤴🏻[✭ıll✌🏻☞ Imͥຮaͣiͫ♥️คraຮan™️☜👻llı✭](tg://user?id=1169076058)🤴🏻
+
+TO SEE MY COMMENTS HIT 😉 /help
 
 """
 
