@@ -28,23 +28,31 @@ from tg_bot.modules.helper_funcs.misc import paginate_modules
 PM_START_TEXT = """
 
 
-START_IMG = os.environ.get('START_IMG',https://telegra.ph/file/511ad504656e712b88235.jpg)
+┈┈┈┈╱▔▔▔▔╲┈┈┈┈
+┈┈┈▕▕╲┊┊╱▏▏┈┈┈
+┈┈┈▕▕▂╱╲▂▏▏┈┈┈
+┈┈┈┈╲┊┊┊┊╱┈┈┈┈
+┈┈┈┈▕╲▂▂╱▏┈┈┈┈
+╱▔▔▔▔┊┊┊┊▔▔▔▔╲
+HOI    {}, MY NAME IS {} !
 
-HI 😉    {},MY NAME IS ⚡️{}⚡️!
+I AM A GROUP MANAGER BOT MAINTAINED BY 
 
-⚡️I AM A MODULER PRO BOT⚡️MANTAINED BY 
+[THIS LEGEND](tg://user?id={}).
 
-🔥[THIS LEGENT](https://tg//user?id/{})🔥
+HIT HELP FOR COMMANDS  /help
 
-CREATED BY 🤴🏻[✭ıll✌🏻☞ Imͥຮaͣiͫ♥️คraຮan™️☜👻llı✭](https://t.me/saravanakrish)🤴🏻
+I AM COMPLETELY OPEN SOURCE
 
-TO SEE MY COMMENTS HIT 😉 /help
+MY SOURCE CODE IS AVAILABLE TO YOU
+
+[HERE](https://github.com/leobrownlee/phantom)
 
 """
 
 HELP_STRINGS = """
 
-Hello! my name ⚡️*{}*⚡️
+Hello! my name *{}*.
 
 *Main* commands available:
  - /start: start the bot
@@ -54,7 +62,6 @@ Hello! my name ⚡️*{}*⚡️
    - in PM: will send you your settings for all supported modules.
    - in a group: will redirect you to pm, with all that chat's settings.
 
-  
 
 {}
 And the following:
