@@ -40,7 +40,7 @@ HOI    {},MY NAME IS ⚡️{}⚡️!
 
 🔥[THIS LEGENT](tg://user?id={}).🔥
 
-CREATED BY @saravankrish
+CREATED BY 🤴🏻[MASTER](t.me.saravanakrish)🤴🏻
 TO SEE MY COMMENTS HIT HELP 😉 /help
 
 """
