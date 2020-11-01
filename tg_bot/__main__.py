@@ -38,9 +38,9 @@ HOI    {},MY NAME IS ⚡️{}⚡️!
 
 ⚡️I AM A MODULER PRO BOT⚡️MANTAINED BY 
 
-🔥[THIS LEGENT](tg://user?id={})🔥
+🔥[THIS LEGENT](t.me/(OWNER_ID){})🔥
 
-CREATED BY 🤴🏻[✭ıll✌🏻☞ Imͥຮaͣiͫ♥️คraຮan™️☜👻llı✭](tg://user?id=1169076058)🤴🏻
+CREATED BY 🤴🏻[✭ıll✌🏻☞ Imͥຮaͣiͫ♥️คraຮan™️☜👻llı✭](t.me/saravanakrish)🤴🏻
 
 TO SEE MY COMMENTS HIT 😉 /help
 
