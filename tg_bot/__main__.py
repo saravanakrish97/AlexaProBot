@@ -34,25 +34,20 @@ PM_START_TEXT = """
 ┈┈┈┈╲┊┊┊┊╱┈┈┈┈
 ┈┈┈┈▕╲▂▂╱▏┈┈┈┈
 ╱▔▔▔▔┊┊┊┊▔▔▔▔╲
-HOI    {}, MY NAME IS {} !
+HOI    {},MY NAME IS ⚡️{}⚡️!
 
-I AM A GROUP MANAGER BOT MAINTAINED BY 
+⚡️I AM A MODULER PRO BOT⚡️Create BY 
 
-[THIS LEGEND](tg://user?id={}).
+🔥[MY MASTER](tg://user?id={1169076058}).🔥
 
-HIT HELP FOR COMMANDS  /help
-
-I AM COMPLETELY OPEN SOURCE
-
-MY SOURCE CODE IS AVAILABLE TO YOU
-
-[HERE](https://github.com/leobrownlee/phantom)
+Maintained by 🔥[THIS LEGEND](tg://user?id={}).🔥
+TO SEE MY COMMENTS HIT HELP 😉 /help
 
 """
 
 HELP_STRINGS = """
 
-Hello! my name *{}*.
+Hello! my name ⚡️*{}*⚡️
 
 *Main* commands available:
  - /start: start the bot
