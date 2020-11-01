@@ -38,11 +38,11 @@ HI😉    {}, MY NAME IS {} !
 
 I AM A MODULER PROBOT  MAINTAINED BY 
 
-✨[THIS LEGEND](https://tg://user?id={}).✨
+✨[THIS LEGEND](https://t.me/@id={}).✨
 
 CREATED BY 
 
-🤴🏻[MY MASTER](https://t.me/saravanakrish)🤴🏻
+🤴🏻[MY MASTER](t.me/saravanakrish)🤴🏻
 
 HIT HELP FOR COMMANDS  /help
 
