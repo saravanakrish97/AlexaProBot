@@ -34,19 +34,18 @@ PM_START_TEXT = """
 ┈┈┈┈╲┊┊┊┊╱┈┈┈┈
 ┈┈┈┈▕╲▂▂╱▏┈┈┈┈
 ╱▔▔▔▔┊┊┊┊▔▔▔▔╲
-HOI    {}, MY NAME IS {} !
+HI😉    {}, MY NAME IS {} !
 
-I AM A GROUP MANAGER BOT MAINTAINED BY 
+I AM A MODULER PROBOT  MAINTAINED BY 
 
-[THIS LEGEND](tg://user?id={}).
+✨[THIS LEGEND](https://tg://user?id={}).✨
+
+CREATED BY 
+
+🤴🏻[MY MASTER](https://t.me/saravanakrish)🤴🏻
 
 HIT HELP FOR COMMANDS  /help
 
-I AM COMPLETELY OPEN SOURCE
-
-MY SOURCE CODE IS AVAILABLE TO YOU
-
-[HERE](https://github.com/leobrownlee/phantom)
 
 """
 
