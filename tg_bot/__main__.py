@@ -28,17 +28,13 @@ from tg_bot.modules.helper_funcs.misc import paginate_modules
 PM_START_TEXT = """
 
 
-START_IMG = os.environ.get('START_IMG', None)
-if START_IMG is None:
-    img = "https://telegra.ph/file/511ad504656e712b88235.jpg"
-else:
-  img = START_IMG  
+START_IMG = os.environ.get('START_IMG',https://telegra.ph/file/511ad504656e712b88235.jpg)
 
 HI 😉    {},MY NAME IS ⚡️{}⚡️!
 
 ⚡️I AM A MODULER PRO BOT⚡️MANTAINED BY 
 
-🔥[THIS LEGENT](t.me/{})🔥
+🔥[THIS LEGENT](https://tg//user?id/{})🔥
 
 CREATED BY 🤴🏻[✭ıll✌🏻☞ Imͥຮaͣiͫ♥️คraຮan™️☜👻llı✭](https://t.me/saravanakrish)🤴🏻
 
