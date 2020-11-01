@@ -36,11 +36,11 @@ PM_START_TEXT = """
 ╱▔▔▔▔┊┊┊┊▔▔▔▔╲
 HOI    {},MY NAME IS ⚡️{}⚡️!
 
-⚡️I AM A MODULER PRO BOT⚡️Create BY 
+⚡️I AM A MODULER PRO BOT⚡️MANTAINED BY 
 
-🔥[MY MASTER](tg://user?id={1169076058}).🔥
+🔥[THIS LEGENT](tg://user?id={}).🔥
 
-Maintained by 🔥[THIS LEGEND](tg://user?id={}).🔥
+CREATED BY 🔥[MY MASTER](tg://user?id={1169076058}).🔥
 TO SEE MY COMMENTS HIT HELP 😉 /help
 
 """
